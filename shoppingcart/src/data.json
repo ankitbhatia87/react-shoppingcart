@@ -1,0 +1,24 @@
+{
+    "productsList": [
+        {
+            "id": "1",
+            "name": "Varsity Jacket",
+            "styleNumber": "CR82E8D6GL",
+            "colour": "Midnight",
+            "size": "S",
+            "price": "275",
+            "image": "img1",
+            "isFavourite": false
+        },
+        {
+            "id": "2",
+            "name": "Houndsooth Car Coat",
+            "styleNumber": "CR82E6S61R",
+            "colour": "Chino Multi",
+            "size": "M",
+            "price": "300",
+            "image": "img2",
+            "isFavourite": true
+        }
+    ]
+  }
