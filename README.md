@@ -1,3 +1,3 @@
 # react-shoppingcart
 
-## Just a coding exercise
+ Just a coding exercise
